@@ -6,9 +6,10 @@ import java.util.Stack;
  * This is the class containing the main entry point for the (eventual) RPN calculator.
  * 
  * @author jason
- * @version 0.1
+ * @version 0.2
  */
-public class Summation {
+public class RpnCalculator {
+  private RpnCalculator() {}
 
   /**
    * Command-line entry point for RPN interpreter.
